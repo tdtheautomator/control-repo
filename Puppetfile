@@ -15,3 +15,8 @@ forge 'https://forge.puppet.com'
 #mod 'apache',
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
+
+mod 'puppetlabs-motd', '4.3.0'
+mod 'puppetlabs-wsus_client', '3.1.0'
+mod 'puppetlabs-powershell', '4.1.0'
+mod 'puppetlabs-chocolatey', '5.2.1'
